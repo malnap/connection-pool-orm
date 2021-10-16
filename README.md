@@ -1,5 +1,9 @@
-# ConnectionPoolAndORM
+# connection-pool-orm
 
-JDBC连接池封装以及ORM封装
+## JDBC连接池封装
 
-手册：https://www.yuque.com/malnap/studyrecord/vrzfi9
+## ORM封装
+
+## 文档
+
+https://www.yuque.com/malnap/studyrecord/vrzfi9
